@@ -1,4 +1,4 @@
-import Hero from "../Hero/Hero";
+import Hero from "../hero/Hero";
 
 const Home = ({movies}) => {
     return (
